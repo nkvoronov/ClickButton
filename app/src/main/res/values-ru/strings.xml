@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Щелчок кнопки</string>
+    <string name="welcome">Поздороватся</string>
+    <string name="label">Ты кто такой?\nДавай, до свидания!</string>
+    <string name="btcountercat">Считаем котов</string>
+    <string name="btcountercrown">Считаем ворон</string>
+    <string name="countcrown">Я насчитал %1$d ворон</string>
+    <string name="countcat">Я насчитал %1$d котов</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Click Button</string>
+    <string name="welcome">Hello</string>
+    <string name="label">Who are you?\nLet\'s goodbye!</string>
+    <string name="btcountercrown">Counter crown</string>
+    <string name="btcountercat">Counter cat</string>
+    <string name="countcrown">Count %1$d crown</string>
+    <string name="countcat">Count %1$d cat</string>
+</resources>
